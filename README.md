@@ -1,5 +1,13 @@
 # xRxtance Dataset: Drug Use Stance Detection
 
+## Access the notebooks in colab
+  🔗 **Open in Colab:** [00_classification_xRxtance](https://colab.research.google.com/drive/1S8Bu3o9TciI8jpcmXx4WRQBhsy9Cudpw?usp=sharing)
+  🔗 **Open in Colab:** [01_classification_xRxtance](https://colab.research.google.com/drive/1Zrzl1I8LKPKa3azMJoBGsnmfuZFFnOqt?usp=sharing)
+  🔗 **Open in Colab:** [02_classification_xRxtance](https://colab.research.google.com/drive/1fk38N721CbSH0HyDsv6qCb0yDM3uswnE?usp=sharing)
+  🔗 **Open in Colab:** [03_classification_xRxtance](https://colab.research.google.com/drive/1bYdGZUUic3m4He3e5VBReV-YgvYFy-ET?usp=sharing)
+  🔗 **Open in Colab:** [04_classification_xRxtance](https://colab.research.google.com/drive/1ToMDv83l9-Afj-9uOpAH0FmY2JGRdUWM?usp=sharing)
+  🔗 **Open in Colab:** [05_classification_xRxtance](https://colab.research.google.com/drive/1VBnBtAXybLQH6y7klsptntZRPtWMVZX4?usp=sharing)
+
 ## Overview
 
 Drug abuse is one of the most significant concerns of the 21st century. With the growing use of social media over the past decade, drug-related conversations have increasingly shifted to platforms such as X (Twitter) and YouTube.
